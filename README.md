@@ -8,7 +8,6 @@
 ##  📫 How to reach me:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/andrelgferro/)
-- 🐦 [Twitter](https://twitter.com/andrelgferro)
 <!--
 **andrelgf/andrelgf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
